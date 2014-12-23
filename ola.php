@@ -1,3 +1,0 @@
-<?
-    echo 'Ola mundo!';
-?>
