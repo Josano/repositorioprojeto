@@ -1,3 +1,3 @@
 <?
-    echo 'Ola mundo!';
+    echo 'Ola Mundo!';
 ?>
